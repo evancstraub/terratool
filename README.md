@@ -1,4 +1,5 @@
 # terratool
+
 CLI tool to deploy terra[form|grunt] modules quickly
 
 This script is designed to build Terraform directory structures quickly and efficiently. I threw this together to get some terraform modules spun up quickly, and I figured others might also want a similar tool.
@@ -47,11 +48,8 @@ terratool [options]
 
 ## Compatibility and Tested Status
 
-```
-| Platform | Compatibility | Tested Status |
-|----------|---------------|---------------|
+|Platform| Compatibility | Tested Status |
+| --- | --- | --- |
 | Ubuntu   | ✅            | Tested-ish    |
 | macOS    | ✅            | Untested      |
 | Windows  | ❌            | UnTested      |
-|----------|---------------|---------------|
-```
